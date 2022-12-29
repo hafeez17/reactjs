@@ -13,7 +13,7 @@ const heading1 = React.createElement("h1", {
 
 const heading2 = React.createElement("h2", {
     style: { color: "green"}
-}, "Heading1");
+}, "Heading2");
 
 
 const container = React.createElement("div", {
